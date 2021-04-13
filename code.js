@@ -90,4 +90,4 @@ checkingRate();
 setInterval(X1capitalizacion, X1.L*1000)
 setInterval(X2capitalizacion, X2.L*1000)
 setInterval(X3capitalizacion, X3.L*1000)
-setInterval(checkingAccountBalance, 2000)
+setInterval(checkingAccountBalance, 60000)
